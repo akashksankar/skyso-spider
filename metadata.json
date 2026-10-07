@@ -1,0 +1,6 @@
+{
+  "name": "SPIDER — Visual Web Crawler",
+  "description": "Visual web crawler and semantic knowledge construction laboratory developed by Skyso Labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
